@@ -2,6 +2,7 @@ Hi, I'm Brent. I build native apps, tools and games, and I build them by pairing
 
 **Things I've built**
 
+- [**Minneapolis From Above**](https://github.com/brentshiely/minneapolis-from-above): an ambient, top-down living map of Minneapolis–Saint Paul: real buses and light rail, planes, satellites, freeway traffic, weather and more, updating in near real time ([live](https://minneapolis-from-above.pages.dev)). MapLibre, deck.gl and Cloudflare Pages.
 - [**SwapCityClassic**](https://github.com/brentshiely/SwapCityClassic): a top-down GTA1-style browser game on real Minneapolis streets (OpenStreetMap data, traffic AI, missions). Phaser 3 + Vite.
 - [**Clipbook**](https://github.com/brentshiely/clipbook): a macOS clipboard history with a grid of large, readable tiles. It stores everything locally in SQLite and skips password-manager items.
 - [**Shiely Capture**](https://github.com/brentshiely/shiely_capture): a Mac menu bar screenshot tool with Snagit-style scrolling capture.
